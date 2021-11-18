@@ -7,3 +7,31 @@ def check(n):
         return False
     elif n == 3:
         return False
+    elif n == 4:
+        return False
+    elif n == 5:
+        return False
+    elif n == 6:
+        return False
+    elif n == 7:
+        return False
+    elif n == 8:
+        return False
+    elif n == 9:
+        return False
+    elif n == 10:
+        return False
+    elif n == 11:
+        return False
+    elif n == 12:
+        return False
+    elif n == 13:
+        return False
+    elif n == 14:
+        return False
+    elif n == 15:
+        return False
+    elif n == 16:
+        return False
+    elif n == 17:
+        return False
