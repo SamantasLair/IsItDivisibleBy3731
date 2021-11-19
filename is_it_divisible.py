@@ -57,3 +57,21 @@ def check(n):
         return False
     elif n == 28:
         return False
+    elif n == 29:
+        return False
+    elif n == 30:
+        return False
+    elif n == 31:
+        return False
+    elif n == 32:
+        return False
+    elif n == 33:
+        return False
+    elif n == 34:
+        return False
+    elif n == 35:
+        return False
+    elif n == 36:
+        return False
+    elif n == 37:
+        return False
