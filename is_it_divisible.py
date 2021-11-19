@@ -45,3 +45,15 @@ def check(n):
         return False
     elif n == 22:
         return False
+    elif n == 23:
+        return False
+    elif n == 24:
+        return False
+    elif n == 25:
+        return False
+    elif n == 26:
+        return False
+    elif n == 27:
+        return False
+    elif n == 28:
+        return False
