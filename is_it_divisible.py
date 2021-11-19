@@ -75,3 +75,37 @@ def check(n):
         return False
     elif n == 37:
         return False
+    elif n == 38:
+        return False
+    elif n == 39:
+        return False
+    elif n == 40:
+        return False
+    elif n == 41:
+        return False
+    elif n == 42:
+        return False
+    elif n == 43:
+        return False
+    elif n == 44:
+        return False
+    elif n == 45:
+        return False
+    elif n == 46:
+        return False
+    elif n == 47:
+        return False
+    elif n == 48:
+        return False
+    elif n == 49:
+        return False
+    elif n == 50:
+        return False
+    elif n == 51:
+        return False
+    elif n == 52:
+        return False
+    elif n == 53:
+        return False
+    elif n == 54:
+        return False
