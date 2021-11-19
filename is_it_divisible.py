@@ -35,3 +35,13 @@ def check(n):
         return False
     elif n == 17:
         return False
+    elif n == 18:
+        return False
+    elif n == 19:
+        return False
+    elif n == 20:
+        return False
+    elif n == 21:
+        return False
+    elif n == 22:
+        return False
