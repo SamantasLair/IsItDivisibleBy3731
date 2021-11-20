@@ -271,3 +271,15 @@ def check(n):
         return False
     elif n == 135:
         return False
+    elif n == 136:
+        return False
+    elif n == 137:
+        return False
+    elif n == 138:
+        return False
+    elif n == 139:
+        return False
+    elif n == 140:
+        return False
+    elif n == 141:
+        return False
