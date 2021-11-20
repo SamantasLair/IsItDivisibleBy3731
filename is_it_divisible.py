@@ -135,3 +135,5 @@ def check(n):
         return False
     elif n == 67:
         return False
+    elif n == 68:
+        return False
