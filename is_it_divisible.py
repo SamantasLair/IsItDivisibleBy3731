@@ -113,3 +113,25 @@ def check(n):
         return False
     elif n == 56:
         return False
+    elif n == 57:
+        return False
+    elif n == 58:
+        return False
+    elif n == 59:
+        return False
+    elif n == 60:
+        return False
+    elif n == 61:
+        return False
+    elif n == 62:
+        return False
+    elif n == 63:
+        return False
+    elif n == 64:
+        return False
+    elif n == 65:
+        return False
+    elif n == 66:
+        return False
+    elif n == 67:
+        return False
