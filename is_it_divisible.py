@@ -245,3 +245,29 @@ def check(n):
         return False
     elif n == 122:
         return False
+    elif n == 123:
+        return False
+    elif n == 124:
+        return False
+    elif n == 125:
+        return False
+    elif n == 126:
+        return False
+    elif n == 127:
+        return False
+    elif n == 128:
+        return False
+    elif n == 129:
+        return False
+    elif n == 130:
+        return False
+    elif n == 131:
+        return False
+    elif n == 132:
+        return False
+    elif n == 133:
+        return False
+    elif n == 134:
+        return False
+    elif n == 135:
+        return False
