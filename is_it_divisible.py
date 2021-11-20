@@ -177,3 +177,13 @@ def check(n):
         return False
     elif n == 88:
         return False
+    elif n == 89:
+        return False
+    elif n == 90:
+        return False
+    elif n == 91:
+        return False
+    elif n == 92:
+        return False
+    elif n == 93:
+        return False
