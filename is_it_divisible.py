@@ -305,3 +305,11 @@ def check(n):
         return False
     elif n == 152:
         return False
+    elif n == 153:
+        return False
+    elif n == 154:
+        return False
+    elif n == 155:
+        return False
+    elif n == 156:
+        return False
