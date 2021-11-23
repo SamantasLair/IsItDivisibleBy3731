@@ -589,3 +589,27 @@ def check(n):
         return False
     elif n == 294:
         return False
+    elif n == 295:
+        return False
+    elif n == 296:
+        return False
+    elif n == 297:
+        return False
+    elif n == 298:
+        return False
+    elif n == 299:
+        return False
+    elif n == 300:
+        return False
+    elif n == 301:
+        return False
+    elif n == 302:
+        return False
+    elif n == 303:
+        return False
+    elif n == 304:
+        return False
+    elif n == 305:
+        return False
+    elif n == 306:
+        return False
