@@ -645,3 +645,43 @@ def check(n):
         return False
     elif n == 322:
         return False
+    elif n == 323:
+        return False
+    elif n == 324:
+        return False
+    elif n == 325:
+        return False
+    elif n == 326:
+        return False
+    elif n == 327:
+        return False
+    elif n == 328:
+        return False
+    elif n == 329:
+        return False
+    elif n == 330:
+        return False
+    elif n == 331:
+        return False
+    elif n == 332:
+        return False
+    elif n == 333:
+        return False
+    elif n == 334:
+        return False
+    elif n == 335:
+        return False
+    elif n == 336:
+        return False
+    elif n == 337:
+        return False
+    elif n == 338:
+        return False
+    elif n == 339:
+        return False
+    elif n == 340:
+        return False
+    elif n == 341:
+        return False
+    elif n == 342:
+        return False
