@@ -685,3 +685,9 @@ def check(n):
         return False
     elif n == 342:
         return False
+    elif n == 343:
+        return False
+    elif n == 344:
+        return False
+    elif n == 345:
+        return False
