@@ -705,3 +705,31 @@ def check(n):
         return False
     elif n == 352:
         return False
+    elif n == 353:
+        return False
+    elif n == 354:
+        return False
+    elif n == 355:
+        return False
+    elif n == 356:
+        return False
+    elif n == 357:
+        return False
+    elif n == 358:
+        return False
+    elif n == 359:
+        return False
+    elif n == 360:
+        return False
+    elif n == 361:
+        return False
+    elif n == 362:
+        return False
+    elif n == 363:
+        return False
+    elif n == 364:
+        return False
+    elif n == 365:
+        return False
+    elif n == 366:
+        return False
