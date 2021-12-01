@@ -755,3 +755,21 @@ def check(n):
         return False
     elif n == 377:
         return False
+    elif n == 378:
+        return False
+    elif n == 379:
+        return False
+    elif n == 380:
+        return False
+    elif n == 381:
+        return False
+    elif n == 382:
+        return False
+    elif n == 383:
+        return False
+    elif n == 384:
+        return False
+    elif n == 385:
+        return False
+    elif n == 386:
+        return False
