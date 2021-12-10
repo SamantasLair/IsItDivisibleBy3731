@@ -961,3 +961,5 @@ def check(n):
         return False
     elif n == 480:
         return False
+    elif n == 481:
+        return False
