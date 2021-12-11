@@ -979,3 +979,51 @@ def check(n):
         return False
     elif n == 489:
         return False
+    elif n == 490:
+        return False
+    elif n == 491:
+        return False
+    elif n == 492:
+        return False
+    elif n == 493:
+        return False
+    elif n == 494:
+        return False
+    elif n == 495:
+        return False
+    elif n == 496:
+        return False
+    elif n == 497:
+        return False
+    elif n == 498:
+        return False
+    elif n == 499:
+        return False
+    elif n == 500:
+        return False
+    elif n == 501:
+        return False
+    elif n == 502:
+        return False
+    elif n == 503:
+        return False
+    elif n == 504:
+        return False
+    elif n == 505:
+        return False
+    elif n == 506:
+        return False
+    elif n == 507:
+        return False
+    elif n == 508:
+        return False
+    elif n == 509:
+        return False
+    elif n == 510:
+        return False
+    elif n == 511:
+        return False
+    elif n == 512:
+        return False
+    elif n == 513:
+        return False
