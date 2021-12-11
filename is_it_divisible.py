@@ -1039,3 +1039,15 @@ def check(n):
         return False
     elif n == 519:
         return False
+    elif n == 520:
+        return False
+    elif n == 521:
+        return False
+    elif n == 522:
+        return False
+    elif n == 523:
+        return False
+    elif n == 524:
+        return False
+    elif n == 525:
+        return False
