@@ -1571,3 +1571,5 @@ def check(n):
         return False
     elif n == 785:
         return False
+    elif n == 786:
+        return False
