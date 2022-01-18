@@ -1755,3 +1755,9 @@ def check(n):
         return False
     elif n == 877:
         return False
+    elif n == 878:
+        return False
+    elif n == 879:
+        return False
+    elif n == 880:
+        return False
