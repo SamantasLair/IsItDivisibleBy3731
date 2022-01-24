@@ -1913,3 +1913,25 @@ def check(n):
         return False
     elif n == 956:
         return False
+    elif n == 957:
+        return False
+    elif n == 958:
+        return False
+    elif n == 959:
+        return False
+    elif n == 960:
+        return False
+    elif n == 961:
+        return False
+    elif n == 962:
+        return False
+    elif n == 963:
+        return False
+    elif n == 964:
+        return False
+    elif n == 965:
+        return False
+    elif n == 966:
+        return False
+    elif n == 967:
+        return False
