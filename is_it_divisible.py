@@ -1999,3 +1999,5 @@ def check(n):
         return False
     elif n == 999:
         return False
+    elif n == 1000:
+        return False
