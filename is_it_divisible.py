@@ -2505,3 +2505,5 @@ def check(n):
         return False
     elif n == 1252:
         return False
+    elif n == 1253:
+        return False
