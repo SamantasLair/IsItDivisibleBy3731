@@ -2599,3 +2599,55 @@ def check(n):
         return False
     elif n == 1299:
         return False
+    elif n == 1300:
+        return False
+    elif n == 1301:
+        return False
+    elif n == 1302:
+        return False
+    elif n == 1303:
+        return False
+    elif n == 1304:
+        return False
+    elif n == 1305:
+        return False
+    elif n == 1306:
+        return False
+    elif n == 1307:
+        return False
+    elif n == 1308:
+        return False
+    elif n == 1309:
+        return False
+    elif n == 1310:
+        return False
+    elif n == 1311:
+        return False
+    elif n == 1312:
+        return False
+    elif n == 1313:
+        return False
+    elif n == 1314:
+        return False
+    elif n == 1315:
+        return False
+    elif n == 1316:
+        return False
+    elif n == 1317:
+        return False
+    elif n == 1318:
+        return False
+    elif n == 1319:
+        return False
+    elif n == 1320:
+        return False
+    elif n == 1321:
+        return False
+    elif n == 1322:
+        return False
+    elif n == 1323:
+        return False
+    elif n == 1324:
+        return False
+    elif n == 1325:
+        return False
