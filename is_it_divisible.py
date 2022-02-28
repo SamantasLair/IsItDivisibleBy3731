@@ -2759,3 +2759,13 @@ def check(n):
         return False
     elif n == 1379:
         return False
+    elif n == 1380:
+        return False
+    elif n == 1381:
+        return False
+    elif n == 1382:
+        return False
+    elif n == 1383:
+        return False
+    elif n == 1384:
+        return False
