@@ -2961,3 +2961,29 @@ def check(n):
         return False
     elif n == 1480:
         return False
+    elif n == 1481:
+        return False
+    elif n == 1482:
+        return False
+    elif n == 1483:
+        return False
+    elif n == 1484:
+        return False
+    elif n == 1485:
+        return False
+    elif n == 1486:
+        return False
+    elif n == 1487:
+        return False
+    elif n == 1488:
+        return False
+    elif n == 1489:
+        return False
+    elif n == 1490:
+        return False
+    elif n == 1491:
+        return False
+    elif n == 1492:
+        return False
+    elif n == 1493:
+        return False
