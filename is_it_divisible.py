@@ -3435,3 +3435,7 @@ def check(n):
         return False
     elif n == 1717:
         return False
+    elif n == 1718:
+        return False
+    elif n == 1719:
+        return False
