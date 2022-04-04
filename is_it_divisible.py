@@ -3455,3 +3455,5 @@ def check(n):
         return False
     elif n == 1727:
         return False
+    elif n == 1728:
+        return False
