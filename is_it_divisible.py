@@ -3529,3 +3529,31 @@ def check(n):
         return False
     elif n == 1764:
         return False
+    elif n == 1765:
+        return False
+    elif n == 1766:
+        return False
+    elif n == 1767:
+        return False
+    elif n == 1768:
+        return False
+    elif n == 1769:
+        return False
+    elif n == 1770:
+        return False
+    elif n == 1771:
+        return False
+    elif n == 1772:
+        return False
+    elif n == 1773:
+        return False
+    elif n == 1774:
+        return False
+    elif n == 1775:
+        return False
+    elif n == 1776:
+        return False
+    elif n == 1777:
+        return False
+    elif n == 1778:
+        return False
