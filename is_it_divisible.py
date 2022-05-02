@@ -3847,3 +3847,43 @@ def check(n):
         return False
     elif n == 1923:
         return False
+    elif n == 1924:
+        return False
+    elif n == 1925:
+        return False
+    elif n == 1926:
+        return False
+    elif n == 1927:
+        return False
+    elif n == 1928:
+        return False
+    elif n == 1929:
+        return False
+    elif n == 1930:
+        return False
+    elif n == 1931:
+        return False
+    elif n == 1932:
+        return False
+    elif n == 1933:
+        return False
+    elif n == 1934:
+        return False
+    elif n == 1935:
+        return False
+    elif n == 1936:
+        return False
+    elif n == 1937:
+        return False
+    elif n == 1938:
+        return False
+    elif n == 1939:
+        return False
+    elif n == 1940:
+        return False
+    elif n == 1941:
+        return False
+    elif n == 1942:
+        return False
+    elif n == 1943:
+        return False
