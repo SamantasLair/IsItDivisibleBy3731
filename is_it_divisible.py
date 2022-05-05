@@ -3935,3 +3935,27 @@ def check(n):
         return False
     elif n == 1967:
         return False
+    elif n == 1968:
+        return False
+    elif n == 1969:
+        return False
+    elif n == 1970:
+        return False
+    elif n == 1971:
+        return False
+    elif n == 1972:
+        return False
+    elif n == 1973:
+        return False
+    elif n == 1974:
+        return False
+    elif n == 1975:
+        return False
+    elif n == 1976:
+        return False
+    elif n == 1977:
+        return False
+    elif n == 1978:
+        return False
+    elif n == 1979:
+        return False
