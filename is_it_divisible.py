@@ -3959,3 +3959,13 @@ def check(n):
         return False
     elif n == 1979:
         return False
+    elif n == 1980:
+        return False
+    elif n == 1981:
+        return False
+    elif n == 1982:
+        return False
+    elif n == 1983:
+        return False
+    elif n == 1984:
+        return False
