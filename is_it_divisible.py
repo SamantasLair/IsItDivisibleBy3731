@@ -3987,3 +3987,9 @@ def check(n):
         return False
     elif n == 1993:
         return False
+    elif n == 1994:
+        return False
+    elif n == 1995:
+        return False
+    elif n == 1996:
+        return False
