@@ -4089,3 +4089,13 @@ def check(n):
         return False
     elif n == 2044:
         return False
+    elif n == 2045:
+        return False
+    elif n == 2046:
+        return False
+    elif n == 2047:
+        return False
+    elif n == 2048:
+        return False
+    elif n == 2049:
+        return False
