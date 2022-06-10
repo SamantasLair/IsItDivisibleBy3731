@@ -4979,3 +4979,5 @@ def check(n):
         return False
     elif n == 2489:
         return False
+    elif n == 2490:
+        return False
