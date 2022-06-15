@@ -5331,3 +5331,19 @@ def check(n):
         return False
     elif n == 2665:
         return False
+    elif n == 2666:
+        return False
+    elif n == 2667:
+        return False
+    elif n == 2668:
+        return False
+    elif n == 2669:
+        return False
+    elif n == 2670:
+        return False
+    elif n == 2671:
+        return False
+    elif n == 2672:
+        return False
+    elif n == 2673:
+        return False
