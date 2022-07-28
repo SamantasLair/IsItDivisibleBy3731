@@ -5933,3 +5933,21 @@ def check(n):
         return False
     elif n == 2966:
         return False
+    elif n == 2967:
+        return False
+    elif n == 2968:
+        return False
+    elif n == 2969:
+        return False
+    elif n == 2970:
+        return False
+    elif n == 2971:
+        return False
+    elif n == 2972:
+        return False
+    elif n == 2973:
+        return False
+    elif n == 2974:
+        return False
+    elif n == 2975:
+        return False
