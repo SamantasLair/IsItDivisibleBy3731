@@ -6011,3 +6011,21 @@ def check(n):
         return False
     elif n == 3005:
         return False
+    elif n == 3006:
+        return False
+    elif n == 3007:
+        return False
+    elif n == 3008:
+        return False
+    elif n == 3009:
+        return False
+    elif n == 3010:
+        return False
+    elif n == 3011:
+        return False
+    elif n == 3012:
+        return False
+    elif n == 3013:
+        return False
+    elif n == 3014:
+        return False
