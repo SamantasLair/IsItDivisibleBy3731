@@ -5971,3 +5971,43 @@ def check(n):
         return False
     elif n == 2985:
         return False
+    elif n == 2986:
+        return False
+    elif n == 2987:
+        return False
+    elif n == 2988:
+        return False
+    elif n == 2989:
+        return False
+    elif n == 2990:
+        return False
+    elif n == 2991:
+        return False
+    elif n == 2992:
+        return False
+    elif n == 2993:
+        return False
+    elif n == 2994:
+        return False
+    elif n == 2995:
+        return False
+    elif n == 2996:
+        return False
+    elif n == 2997:
+        return False
+    elif n == 2998:
+        return False
+    elif n == 2999:
+        return False
+    elif n == 3000:
+        return False
+    elif n == 3001:
+        return False
+    elif n == 3002:
+        return False
+    elif n == 3003:
+        return False
+    elif n == 3004:
+        return False
+    elif n == 3005:
+        return False
