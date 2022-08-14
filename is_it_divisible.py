@@ -6143,3 +6143,13 @@ def check(n):
         return False
     elif n == 3071:
         return False
+    elif n == 3072:
+        return False
+    elif n == 3073:
+        return False
+    elif n == 3074:
+        return False
+    elif n == 3075:
+        return False
+    elif n == 3076:
+        return False
