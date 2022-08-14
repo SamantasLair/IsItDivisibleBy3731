@@ -6159,3 +6159,55 @@ def check(n):
         return False
     elif n == 3079:
         return False
+    elif n == 3080:
+        return False
+    elif n == 3081:
+        return False
+    elif n == 3082:
+        return False
+    elif n == 3083:
+        return False
+    elif n == 3084:
+        return False
+    elif n == 3085:
+        return False
+    elif n == 3086:
+        return False
+    elif n == 3087:
+        return False
+    elif n == 3088:
+        return False
+    elif n == 3089:
+        return False
+    elif n == 3090:
+        return False
+    elif n == 3091:
+        return False
+    elif n == 3092:
+        return False
+    elif n == 3093:
+        return False
+    elif n == 3094:
+        return False
+    elif n == 3095:
+        return False
+    elif n == 3096:
+        return False
+    elif n == 3097:
+        return False
+    elif n == 3098:
+        return False
+    elif n == 3099:
+        return False
+    elif n == 3100:
+        return False
+    elif n == 3101:
+        return False
+    elif n == 3102:
+        return False
+    elif n == 3103:
+        return False
+    elif n == 3104:
+        return False
+    elif n == 3105:
+        return False
