@@ -6141,3 +6141,5 @@ def check(n):
         return False
     elif n == 3070:
         return False
+    elif n == 3071:
+        return False
