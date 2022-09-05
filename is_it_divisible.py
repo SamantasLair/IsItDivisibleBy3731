@@ -7333,3 +7333,13 @@ def check(n):
         return False
     elif n == 3666:
         return False
+    elif n == 3667:
+        return False
+    elif n == 3668:
+        return False
+    elif n == 3669:
+        return False
+    elif n == 3670:
+        return False
+    elif n == 3671:
+        return False
