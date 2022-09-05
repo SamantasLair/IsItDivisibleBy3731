@@ -7343,3 +7343,53 @@ def check(n):
         return False
     elif n == 3671:
         return False
+    elif n == 3672:
+        return False
+    elif n == 3673:
+        return False
+    elif n == 3674:
+        return False
+    elif n == 3675:
+        return False
+    elif n == 3676:
+        return False
+    elif n == 3677:
+        return False
+    elif n == 3678:
+        return False
+    elif n == 3679:
+        return False
+    elif n == 3680:
+        return False
+    elif n == 3681:
+        return False
+    elif n == 3682:
+        return False
+    elif n == 3683:
+        return False
+    elif n == 3684:
+        return False
+    elif n == 3685:
+        return False
+    elif n == 3686:
+        return False
+    elif n == 3687:
+        return False
+    elif n == 3688:
+        return False
+    elif n == 3689:
+        return False
+    elif n == 3690:
+        return False
+    elif n == 3691:
+        return False
+    elif n == 3692:
+        return False
+    elif n == 3693:
+        return False
+    elif n == 3694:
+        return False
+    elif n == 3695:
+        return False
+    elif n == 3696:
+        return False
