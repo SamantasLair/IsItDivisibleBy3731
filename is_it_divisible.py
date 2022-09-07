@@ -7443,3 +7443,27 @@ def check(n):
         return False
     elif n == 3721:
         return False
+    elif n == 3722:
+        return False
+    elif n == 3723:
+        return False
+    elif n == 3724:
+        return False
+    elif n == 3725:
+        return False
+    elif n == 3726:
+        return False
+    elif n == 3727:
+        return False
+    elif n == 3728:
+        return False
+    elif n == 3729:
+        return False
+    elif n == 3730:
+        return False
+    elif n == 3731:
+        return True
+    elif n == 3732:
+        return False
+    elif n == 3733:
+        return False
