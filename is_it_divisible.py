@@ -7653,3 +7653,5 @@ def check(n):
         return False
     elif n == 3826:
         return False
+    elif n == 3827:
+        return False
