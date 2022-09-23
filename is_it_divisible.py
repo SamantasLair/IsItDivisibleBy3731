@@ -7807,3 +7807,7 @@ def check(n):
         return False
     elif n == 3903:
         return False
+    elif n == 3904:
+        return False
+    elif n == 3905:
+        return False
