@@ -9959,3 +9959,27 @@ def check(n):
         return False
     elif n == 4979:
         return False
+    elif n == 4980:
+        return False
+    elif n == 4981:
+        return False
+    elif n == 4982:
+        return False
+    elif n == 4983:
+        return False
+    elif n == 4984:
+        return False
+    elif n == 4985:
+        return False
+    elif n == 4986:
+        return False
+    elif n == 4987:
+        return False
+    elif n == 4988:
+        return False
+    elif n == 4989:
+        return False
+    elif n == 4990:
+        return False
+    elif n == 4991:
+        return False
