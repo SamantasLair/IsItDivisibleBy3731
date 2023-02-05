@@ -10115,3 +10115,47 @@ def check(n):
         return False
     elif n == 5057:
         return False
+    elif n == 5058:
+        return False
+    elif n == 5059:
+        return False
+    elif n == 5060:
+        return False
+    elif n == 5061:
+        return False
+    elif n == 5062:
+        return False
+    elif n == 5063:
+        return False
+    elif n == 5064:
+        return False
+    elif n == 5065:
+        return False
+    elif n == 5066:
+        return False
+    elif n == 5067:
+        return False
+    elif n == 5068:
+        return False
+    elif n == 5069:
+        return False
+    elif n == 5070:
+        return False
+    elif n == 5071:
+        return False
+    elif n == 5072:
+        return False
+    elif n == 5073:
+        return False
+    elif n == 5074:
+        return False
+    elif n == 5075:
+        return False
+    elif n == 5076:
+        return False
+    elif n == 5077:
+        return False
+    elif n == 5078:
+        return False
+    elif n == 5079:
+        return False
