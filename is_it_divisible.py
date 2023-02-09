@@ -10207,3 +10207,19 @@ def check(n):
         return False
     elif n == 5103:
         return False
+    elif n == 5104:
+        return False
+    elif n == 5105:
+        return False
+    elif n == 5106:
+        return False
+    elif n == 5107:
+        return False
+    elif n == 5108:
+        return False
+    elif n == 5109:
+        return False
+    elif n == 5110:
+        return False
+    elif n == 5111:
+        return False
