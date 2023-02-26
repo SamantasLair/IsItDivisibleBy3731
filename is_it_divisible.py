@@ -10391,3 +10391,7 @@ def check(n):
         return False
     elif n == 5195:
         return False
+    elif n == 5196:
+        return False
+    elif n == 5197:
+        return False
