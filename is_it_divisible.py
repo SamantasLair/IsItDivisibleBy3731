@@ -12085,3 +12085,15 @@ def check(n):
         return False
     elif n == 6042:
         return False
+    elif n == 6043:
+        return False
+    elif n == 6044:
+        return False
+    elif n == 6045:
+        return False
+    elif n == 6046:
+        return False
+    elif n == 6047:
+        return False
+    elif n == 6048:
+        return False
