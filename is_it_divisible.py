@@ -12101,3 +12101,13 @@ def check(n):
         return False
     elif n == 6050:
         return False
+    elif n == 6051:
+        return False
+    elif n == 6052:
+        return False
+    elif n == 6053:
+        return False
+    elif n == 6054:
+        return False
+    elif n == 6055:
+        return False
