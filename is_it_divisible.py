@@ -12133,3 +12133,7 @@ def check(n):
         return False
     elif n == 6066:
         return False
+    elif n == 6067:
+        return False
+    elif n == 6068:
+        return False
