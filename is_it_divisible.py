@@ -13501,3 +13501,27 @@ def check(n):
         return False
     elif n == 6750:
         return False
+    elif n == 6751:
+        return False
+    elif n == 6752:
+        return False
+    elif n == 6753:
+        return False
+    elif n == 6754:
+        return False
+    elif n == 6755:
+        return False
+    elif n == 6756:
+        return False
+    elif n == 6757:
+        return False
+    elif n == 6758:
+        return False
+    elif n == 6759:
+        return False
+    elif n == 6760:
+        return False
+    elif n == 6761:
+        return False
+    elif n == 6762:
+        return False
