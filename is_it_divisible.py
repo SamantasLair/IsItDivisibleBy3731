@@ -14049,3 +14049,7 @@ def check(n):
         return False
     elif n == 7024:
         return False
+    elif n == 7025:
+        return False
+    elif n == 7026:
+        return False
