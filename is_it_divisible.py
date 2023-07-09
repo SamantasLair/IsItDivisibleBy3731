@@ -14531,3 +14531,7 @@ def check(n):
         return False
     elif n == 7265:
         return False
+    elif n == 7266:
+        return False
+    elif n == 7267:
+        return False
