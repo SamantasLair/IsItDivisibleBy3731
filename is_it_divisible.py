@@ -15333,3 +15333,17 @@ def check(n):
         return False
     elif n == 7666:
         return False
+    elif n == 7667:
+        return False
+    elif n == 7668:
+        return False
+    elif n == 7669:
+        return False
+    elif n == 7670:
+        return False
+    elif n == 7671:
+        return False
+    elif n == 7672:
+        return False
+    elif n == 7673:
+        return False
