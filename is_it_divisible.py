@@ -16145,3 +16145,9 @@ def check(n):
         return False
     elif n == 8072:
         return False
+    elif n == 8073:
+        return False
+    elif n == 8074:
+        return False
+    elif n == 8075:
+        return False
