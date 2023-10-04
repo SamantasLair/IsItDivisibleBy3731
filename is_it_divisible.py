@@ -16133,3 +16133,5 @@ def check(n):
         return False
     elif n == 8066:
         return False
+    elif n == 8067:
+        return False
