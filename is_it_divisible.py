@@ -16135,3 +16135,13 @@ def check(n):
         return False
     elif n == 8067:
         return False
+    elif n == 8068:
+        return False
+    elif n == 8069:
+        return False
+    elif n == 8070:
+        return False
+    elif n == 8071:
+        return False
+    elif n == 8072:
+        return False
