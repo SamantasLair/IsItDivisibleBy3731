@@ -16223,3 +16223,53 @@ def check(n):
         return False
     elif n == 8111:
         return False
+    elif n == 8112:
+        return False
+    elif n == 8113:
+        return False
+    elif n == 8114:
+        return False
+    elif n == 8115:
+        return False
+    elif n == 8116:
+        return False
+    elif n == 8117:
+        return False
+    elif n == 8118:
+        return False
+    elif n == 8119:
+        return False
+    elif n == 8120:
+        return False
+    elif n == 8121:
+        return False
+    elif n == 8122:
+        return False
+    elif n == 8123:
+        return False
+    elif n == 8124:
+        return False
+    elif n == 8125:
+        return False
+    elif n == 8126:
+        return False
+    elif n == 8127:
+        return False
+    elif n == 8128:
+        return False
+    elif n == 8129:
+        return False
+    elif n == 8130:
+        return False
+    elif n == 8131:
+        return False
+    elif n == 8132:
+        return False
+    elif n == 8133:
+        return False
+    elif n == 8134:
+        return False
+    elif n == 8135:
+        return False
+    elif n == 8136:
+        return False
