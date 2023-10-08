@@ -16283,3 +16283,17 @@ def check(n):
         return False
     elif n == 8141:
         return False
+    elif n == 8142:
+        return False
+    elif n == 8143:
+        return False
+    elif n == 8144:
+        return False
+    elif n == 8145:
+        return False
+    elif n == 8146:
+        return False
+    elif n == 8147:
+        return False
+    elif n == 8148:
+        return False
