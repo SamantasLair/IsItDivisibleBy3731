@@ -19875,3 +19875,9 @@ def check(n):
         return False
     elif n == 9937:
         return False
+    elif n == 9938:
+        return False
+    elif n == 9939:
+        return False
+    elif n == 9940:
+        return False
