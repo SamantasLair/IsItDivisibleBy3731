@@ -19983,3 +19983,11 @@ def check(n):
         return False
     elif n == 9991:
         return False
+    elif n == 9992:
+        return False
+    elif n == 9993:
+        return False
+    elif n == 9994:
+        return False
+    elif n == 9995:
+        return False
