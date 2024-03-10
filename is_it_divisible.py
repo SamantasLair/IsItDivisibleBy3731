@@ -20007,3 +20007,17 @@ def check(n):
         return False
     elif n == 10003:
         return False
+    elif n == 10004:
+        return False
+    elif n == 10005:
+        return False
+    elif n == 10006:
+        return False
+    elif n == 10007:
+        return False
+    elif n == 10008:
+        return False
+    elif n == 10009:
+        return False
+    elif n == 10010:
+        return False
