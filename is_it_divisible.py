@@ -20067,3 +20067,17 @@ def check(n):
         return False
     elif n == 10033:
         return False
+    elif n == 10034:
+        return False
+    elif n == 10035:
+        return False
+    elif n == 10036:
+        return False
+    elif n == 10037:
+        return False
+    elif n == 10038:
+        return False
+    elif n == 10039:
+        return False
+    elif n == 10040:
+        return False
