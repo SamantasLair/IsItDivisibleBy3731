@@ -20081,3 +20081,11 @@ def check(n):
         return False
     elif n == 10040:
         return False
+    elif n == 10041:
+        return False
+    elif n == 10042:
+        return False
+    elif n == 10043:
+        return False
+    elif n == 10044:
+        return False
