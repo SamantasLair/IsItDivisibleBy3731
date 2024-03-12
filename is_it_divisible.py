@@ -20095,3 +20095,21 @@ def check(n):
         return False
     elif n == 10047:
         return False
+    elif n == 10048:
+        return False
+    elif n == 10049:
+        return False
+    elif n == 10050:
+        return False
+    elif n == 10051:
+        return False
+    elif n == 10052:
+        return False
+    elif n == 10053:
+        return False
+    elif n == 10054:
+        return False
+    elif n == 10055:
+        return False
+    elif n == 10056:
+        return False
