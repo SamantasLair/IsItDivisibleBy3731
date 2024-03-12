@@ -20137,3 +20137,5 @@ def check(n):
         return False
     elif n == 10068:
         return False
+    elif n == 10069:
+        return False
