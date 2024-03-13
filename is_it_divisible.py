@@ -20139,3 +20139,37 @@ def check(n):
         return False
     elif n == 10069:
         return False
+    elif n == 10070:
+        return False
+    elif n == 10071:
+        return False
+    elif n == 10072:
+        return False
+    elif n == 10073:
+        return False
+    elif n == 10074:
+        return False
+    elif n == 10075:
+        return False
+    elif n == 10076:
+        return False
+    elif n == 10077:
+        return False
+    elif n == 10078:
+        return False
+    elif n == 10079:
+        return False
+    elif n == 10080:
+        return False
+    elif n == 10081:
+        return False
+    elif n == 10082:
+        return False
+    elif n == 10083:
+        return False
+    elif n == 10084:
+        return False
+    elif n == 10085:
+        return False
+    elif n == 10086:
+        return False
