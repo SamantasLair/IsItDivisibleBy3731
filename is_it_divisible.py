@@ -20253,3 +20253,17 @@ def check(n):
         return False
     elif n == 10126:
         return False
+    elif n == 10127:
+        return False
+    elif n == 10128:
+        return False
+    elif n == 10129:
+        return False
+    elif n == 10130:
+        return False
+    elif n == 10131:
+        return False
+    elif n == 10132:
+        return False
+    elif n == 10133:
+        return False
