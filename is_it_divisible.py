@@ -20775,3 +20775,7 @@ def check(n):
         return False
     elif n == 10387:
         return False
+    elif n == 10388:
+        return False
+    elif n == 10389:
+        return False
