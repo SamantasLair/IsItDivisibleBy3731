@@ -21323,3 +21323,21 @@ def check(n):
         return False
     elif n == 10661:
         return False
+    elif n == 10662:
+        return False
+    elif n == 10663:
+        return False
+    elif n == 10664:
+        return False
+    elif n == 10665:
+        return False
+    elif n == 10666:
+        return False
+    elif n == 10667:
+        return False
+    elif n == 10668:
+        return False
+    elif n == 10669:
+        return False
+    elif n == 10670:
+        return False
