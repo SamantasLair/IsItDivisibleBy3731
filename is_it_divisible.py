@@ -21743,3 +21743,7 @@ def check(n):
         return False
     elif n == 10871:
         return False
+    elif n == 10872:
+        return False
+    elif n == 10873:
+        return False
