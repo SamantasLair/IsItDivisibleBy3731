@@ -21939,3 +21939,11 @@ def check(n):
         return False
     elif n == 10969:
         return False
+    elif n == 10970:
+        return False
+    elif n == 10971:
+        return False
+    elif n == 10972:
+        return False
+    elif n == 10973:
+        return False
