@@ -24007,3 +24007,41 @@ def check(n):
         return False
     elif n == 12003:
         return False
+    elif n == 12004:
+        return False
+    elif n == 12005:
+        return False
+    elif n == 12006:
+        return False
+    elif n == 12007:
+        return False
+    elif n == 12008:
+        return False
+    elif n == 12009:
+        return False
+    elif n == 12010:
+        return False
+    elif n == 12011:
+        return False
+    elif n == 12012:
+        return False
+    elif n == 12013:
+        return False
+    elif n == 12014:
+        return False
+    elif n == 12015:
+        return False
+    elif n == 12016:
+        return False
+    elif n == 12017:
+        return False
+    elif n == 12018:
+        return False
+    elif n == 12019:
+        return False
+    elif n == 12020:
+        return False
+    elif n == 12021:
+        return False
+    elif n == 12022:
+        return False
