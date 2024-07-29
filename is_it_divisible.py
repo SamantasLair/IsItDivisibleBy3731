@@ -24001,3 +24001,5 @@ def check(n):
         return False
     elif n == 12000:
         return False
+    elif n == 12001:
+        return False
