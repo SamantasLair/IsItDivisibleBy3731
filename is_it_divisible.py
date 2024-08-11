@@ -24197,3 +24197,47 @@ def check(n):
         return False
     elif n == 12098:
         return False
+    elif n == 12099:
+        return False
+    elif n == 12100:
+        return False
+    elif n == 12101:
+        return False
+    elif n == 12102:
+        return False
+    elif n == 12103:
+        return False
+    elif n == 12104:
+        return False
+    elif n == 12105:
+        return False
+    elif n == 12106:
+        return False
+    elif n == 12107:
+        return False
+    elif n == 12108:
+        return False
+    elif n == 12109:
+        return False
+    elif n == 12110:
+        return False
+    elif n == 12111:
+        return False
+    elif n == 12112:
+        return False
+    elif n == 12113:
+        return False
+    elif n == 12114:
+        return False
+    elif n == 12115:
+        return False
+    elif n == 12116:
+        return False
+    elif n == 12117:
+        return False
+    elif n == 12118:
+        return False
+    elif n == 12119:
+        return False
+    elif n == 12120:
+        return False
