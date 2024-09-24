@@ -24953,3 +24953,19 @@ def check(n):
         return False
     elif n == 12476:
         return False
+    elif n == 12477:
+        return False
+    elif n == 12478:
+        return False
+    elif n == 12479:
+        return False
+    elif n == 12480:
+        return False
+    elif n == 12481:
+        return False
+    elif n == 12482:
+        return False
+    elif n == 12483:
+        return False
+    elif n == 12484:
+        return False
