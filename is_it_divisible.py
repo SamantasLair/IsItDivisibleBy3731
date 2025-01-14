@@ -28099,3 +28099,41 @@ def check(n):
         return False
     elif n == 14049:
         return False
+    elif n == 14050:
+        return False
+    elif n == 14051:
+        return False
+    elif n == 14052:
+        return False
+    elif n == 14053:
+        return False
+    elif n == 14054:
+        return False
+    elif n == 14055:
+        return False
+    elif n == 14056:
+        return False
+    elif n == 14057:
+        return False
+    elif n == 14058:
+        return False
+    elif n == 14059:
+        return False
+    elif n == 14060:
+        return False
+    elif n == 14061:
+        return False
+    elif n == 14062:
+        return False
+    elif n == 14063:
+        return False
+    elif n == 14064:
+        return False
+    elif n == 14065:
+        return False
+    elif n == 14066:
+        return False
+    elif n == 14067:
+        return False
+    elif n == 14068:
+        return False
