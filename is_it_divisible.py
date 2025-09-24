@@ -33533,3 +33533,21 @@ def check(n):
         return False
     elif n == 16766:
         return False
+    elif n == 16767:
+        return False
+    elif n == 16768:
+        return False
+    elif n == 16769:
+        return False
+    elif n == 16770:
+        return False
+    elif n == 16771:
+        return False
+    elif n == 16772:
+        return False
+    elif n == 16773:
+        return False
+    elif n == 16774:
+        return False
+    elif n == 16775:
+        return False
