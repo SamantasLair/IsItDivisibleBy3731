@@ -35937,3 +35937,5 @@ def check(n):
         return False
     elif n == 17968:
         return False
+    elif n == 17969:
+        return False
