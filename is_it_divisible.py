@@ -36005,3 +36005,9 @@ def check(n):
         return False
     elif n == 18002:
         return False
+    elif n == 18003:
+        return False
+    elif n == 18004:
+        return False
+    elif n == 18005:
+        return False
