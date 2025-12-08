@@ -36059,3 +36059,13 @@ def check(n):
         return False
     elif n == 18029:
         return False
+    elif n == 18030:
+        return False
+    elif n == 18031:
+        return False
+    elif n == 18032:
+        return False
+    elif n == 18033:
+        return False
+    elif n == 18034:
+        return False
