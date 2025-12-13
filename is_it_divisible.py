@@ -36123,3 +36123,15 @@ def check(n):
         return False
     elif n == 18061:
         return False
+    elif n == 18062:
+        return False
+    elif n == 18063:
+        return False
+    elif n == 18064:
+        return False
+    elif n == 18065:
+        return False
+    elif n == 18066:
+        return False
+    elif n == 18067:
+        return False
