@@ -36639,3 +36639,23 @@ def check(n):
         return False
     elif n == 18319:
         return False
+    elif n == 18320:
+        return False
+    elif n == 18321:
+        return False
+    elif n == 18322:
+        return False
+    elif n == 18323:
+        return False
+    elif n == 18324:
+        return False
+    elif n == 18325:
+        return False
+    elif n == 18326:
+        return False
+    elif n == 18327:
+        return False
+    elif n == 18328:
+        return False
+    elif n == 18329:
+        return False
