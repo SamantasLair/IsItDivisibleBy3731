@@ -581,3 +581,73 @@ def check(n):
         return False
     elif n == 290:
         return False
+    elif n == 291:
+        return False
+    elif n == 292:
+        return False
+    elif n == 293:
+        return False
+    elif n == 294:
+        return False
+    elif n == 295:
+        return False
+    elif n == 296:
+        return False
+    elif n == 297:
+        return False
+    elif n == 298:
+        return False
+    elif n == 299:
+        return False
+    elif n == 300:
+        return False
+    elif n == 301:
+        return False
+    elif n == 302:
+        return False
+    elif n == 303:
+        return False
+    elif n == 304:
+        return False
+    elif n == 305:
+        return False
+    elif n == 306:
+        return False
+    elif n == 307:
+        return False
+    elif n == 308:
+        return False
+    elif n == 309:
+        return False
+    elif n == 310:
+        return False
+    elif n == 311:
+        return False
+    elif n == 312:
+        return False
+    elif n == 313:
+        return False
+    elif n == 314:
+        return False
+    elif n == 315:
+        return False
+    elif n == 316:
+        return False
+    elif n == 317:
+        return False
+    elif n == 318:
+        return False
+    elif n == 319:
+        return False
+    elif n == 320:
+        return False
+    elif n == 321:
+        return False
+    elif n == 322:
+        return False
+    elif n == 323:
+        return False
+    elif n == 324:
+        return False
+    elif n == 325:
+        return False
