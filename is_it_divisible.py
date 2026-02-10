@@ -441,3 +441,73 @@ def check(n):
         return False
     elif n == 220:
         return False
+    elif n == 221:
+        return False
+    elif n == 222:
+        return False
+    elif n == 223:
+        return False
+    elif n == 224:
+        return False
+    elif n == 225:
+        return False
+    elif n == 226:
+        return False
+    elif n == 227:
+        return False
+    elif n == 228:
+        return False
+    elif n == 229:
+        return False
+    elif n == 230:
+        return False
+    elif n == 231:
+        return False
+    elif n == 232:
+        return False
+    elif n == 233:
+        return False
+    elif n == 234:
+        return False
+    elif n == 235:
+        return False
+    elif n == 236:
+        return False
+    elif n == 237:
+        return False
+    elif n == 238:
+        return False
+    elif n == 239:
+        return False
+    elif n == 240:
+        return False
+    elif n == 241:
+        return False
+    elif n == 242:
+        return False
+    elif n == 243:
+        return False
+    elif n == 244:
+        return False
+    elif n == 245:
+        return False
+    elif n == 246:
+        return False
+    elif n == 247:
+        return False
+    elif n == 248:
+        return False
+    elif n == 249:
+        return False
+    elif n == 250:
+        return False
+    elif n == 251:
+        return False
+    elif n == 252:
+        return False
+    elif n == 253:
+        return False
+    elif n == 254:
+        return False
+    elif n == 255:
+        return False
