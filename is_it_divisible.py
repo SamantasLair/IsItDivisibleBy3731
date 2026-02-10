@@ -1281,3 +1281,73 @@ def check(n):
         return False
     elif n == 640:
         return False
+    elif n == 641:
+        return False
+    elif n == 642:
+        return False
+    elif n == 643:
+        return False
+    elif n == 644:
+        return False
+    elif n == 645:
+        return False
+    elif n == 646:
+        return False
+    elif n == 647:
+        return False
+    elif n == 648:
+        return False
+    elif n == 649:
+        return False
+    elif n == 650:
+        return False
+    elif n == 651:
+        return False
+    elif n == 652:
+        return False
+    elif n == 653:
+        return False
+    elif n == 654:
+        return False
+    elif n == 655:
+        return False
+    elif n == 656:
+        return False
+    elif n == 657:
+        return False
+    elif n == 658:
+        return False
+    elif n == 659:
+        return False
+    elif n == 660:
+        return False
+    elif n == 661:
+        return False
+    elif n == 662:
+        return False
+    elif n == 663:
+        return False
+    elif n == 664:
+        return False
+    elif n == 665:
+        return False
+    elif n == 666:
+        return False
+    elif n == 667:
+        return False
+    elif n == 668:
+        return False
+    elif n == 669:
+        return False
+    elif n == 670:
+        return False
+    elif n == 671:
+        return False
+    elif n == 672:
+        return False
+    elif n == 673:
+        return False
+    elif n == 674:
+        return False
+    elif n == 675:
+        return False
