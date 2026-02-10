@@ -231,3 +231,73 @@ def check(n):
         return False
     elif n == 115:
         return False
+    elif n == 116:
+        return False
+    elif n == 117:
+        return False
+    elif n == 118:
+        return False
+    elif n == 119:
+        return False
+    elif n == 120:
+        return False
+    elif n == 121:
+        return False
+    elif n == 122:
+        return False
+    elif n == 123:
+        return False
+    elif n == 124:
+        return False
+    elif n == 125:
+        return False
+    elif n == 126:
+        return False
+    elif n == 127:
+        return False
+    elif n == 128:
+        return False
+    elif n == 129:
+        return False
+    elif n == 130:
+        return False
+    elif n == 131:
+        return False
+    elif n == 132:
+        return False
+    elif n == 133:
+        return False
+    elif n == 134:
+        return False
+    elif n == 135:
+        return False
+    elif n == 136:
+        return False
+    elif n == 137:
+        return False
+    elif n == 138:
+        return False
+    elif n == 139:
+        return False
+    elif n == 140:
+        return False
+    elif n == 141:
+        return False
+    elif n == 142:
+        return False
+    elif n == 143:
+        return False
+    elif n == 144:
+        return False
+    elif n == 145:
+        return False
+    elif n == 146:
+        return False
+    elif n == 147:
+        return False
+    elif n == 148:
+        return False
+    elif n == 149:
+        return False
+    elif n == 150:
+        return False
