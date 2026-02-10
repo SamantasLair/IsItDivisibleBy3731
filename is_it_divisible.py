@@ -91,3 +91,73 @@ def check(n):
         return False
     elif n == 45:
         return False
+    elif n == 46:
+        return False
+    elif n == 47:
+        return False
+    elif n == 48:
+        return False
+    elif n == 49:
+        return False
+    elif n == 50:
+        return False
+    elif n == 51:
+        return False
+    elif n == 52:
+        return False
+    elif n == 53:
+        return False
+    elif n == 54:
+        return False
+    elif n == 55:
+        return False
+    elif n == 56:
+        return False
+    elif n == 57:
+        return False
+    elif n == 58:
+        return False
+    elif n == 59:
+        return False
+    elif n == 60:
+        return False
+    elif n == 61:
+        return False
+    elif n == 62:
+        return False
+    elif n == 63:
+        return False
+    elif n == 64:
+        return False
+    elif n == 65:
+        return False
+    elif n == 66:
+        return False
+    elif n == 67:
+        return False
+    elif n == 68:
+        return False
+    elif n == 69:
+        return False
+    elif n == 70:
+        return False
+    elif n == 71:
+        return False
+    elif n == 72:
+        return False
+    elif n == 73:
+        return False
+    elif n == 74:
+        return False
+    elif n == 75:
+        return False
+    elif n == 76:
+        return False
+    elif n == 77:
+        return False
+    elif n == 78:
+        return False
+    elif n == 79:
+        return False
+    elif n == 80:
+        return False
