@@ -1401,3 +1401,103 @@ def check(n):
         return False
     elif n == 700:
         return False
+    elif n == 701:
+        return False
+    elif n == 702:
+        return False
+    elif n == 703:
+        return False
+    elif n == 704:
+        return False
+    elif n == 705:
+        return False
+    elif n == 706:
+        return False
+    elif n == 707:
+        return False
+    elif n == 708:
+        return False
+    elif n == 709:
+        return False
+    elif n == 710:
+        return False
+    elif n == 711:
+        return False
+    elif n == 712:
+        return False
+    elif n == 713:
+        return False
+    elif n == 714:
+        return False
+    elif n == 715:
+        return False
+    elif n == 716:
+        return False
+    elif n == 717:
+        return False
+    elif n == 718:
+        return False
+    elif n == 719:
+        return False
+    elif n == 720:
+        return False
+    elif n == 721:
+        return False
+    elif n == 722:
+        return False
+    elif n == 723:
+        return False
+    elif n == 724:
+        return False
+    elif n == 725:
+        return False
+    elif n == 726:
+        return False
+    elif n == 727:
+        return False
+    elif n == 728:
+        return False
+    elif n == 729:
+        return False
+    elif n == 730:
+        return False
+    elif n == 731:
+        return False
+    elif n == 732:
+        return False
+    elif n == 733:
+        return False
+    elif n == 734:
+        return False
+    elif n == 735:
+        return False
+    elif n == 736:
+        return False
+    elif n == 737:
+        return False
+    elif n == 738:
+        return False
+    elif n == 739:
+        return False
+    elif n == 740:
+        return False
+    elif n == 741:
+        return False
+    elif n == 742:
+        return False
+    elif n == 743:
+        return False
+    elif n == 744:
+        return False
+    elif n == 745:
+        return False
+    elif n == 746:
+        return False
+    elif n == 747:
+        return False
+    elif n == 748:
+        return False
+    elif n == 749:
+        return False
+    elif n == 750:
+        return False
