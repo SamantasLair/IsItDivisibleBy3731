@@ -1001,3 +1001,73 @@ def check(n):
         return False
     elif n == 500:
         return False
+    elif n == 501:
+        return False
+    elif n == 502:
+        return False
+    elif n == 503:
+        return False
+    elif n == 504:
+        return False
+    elif n == 505:
+        return False
+    elif n == 506:
+        return False
+    elif n == 507:
+        return False
+    elif n == 508:
+        return False
+    elif n == 509:
+        return False
+    elif n == 510:
+        return False
+    elif n == 511:
+        return False
+    elif n == 512:
+        return False
+    elif n == 513:
+        return False
+    elif n == 514:
+        return False
+    elif n == 515:
+        return False
+    elif n == 516:
+        return False
+    elif n == 517:
+        return False
+    elif n == 518:
+        return False
+    elif n == 519:
+        return False
+    elif n == 520:
+        return False
+    elif n == 521:
+        return False
+    elif n == 522:
+        return False
+    elif n == 523:
+        return False
+    elif n == 524:
+        return False
+    elif n == 525:
+        return False
+    elif n == 526:
+        return False
+    elif n == 527:
+        return False
+    elif n == 528:
+        return False
+    elif n == 529:
+        return False
+    elif n == 530:
+        return False
+    elif n == 531:
+        return False
+    elif n == 532:
+        return False
+    elif n == 533:
+        return False
+    elif n == 534:
+        return False
+    elif n == 535:
+        return False
