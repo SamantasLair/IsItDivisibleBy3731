@@ -1961,3 +1961,43 @@ def check(n):
         return False
     elif n == 980:
         return False
+    elif n == 981:
+        return False
+    elif n == 982:
+        return False
+    elif n == 983:
+        return False
+    elif n == 984:
+        return False
+    elif n == 985:
+        return False
+    elif n == 986:
+        return False
+    elif n == 987:
+        return False
+    elif n == 988:
+        return False
+    elif n == 989:
+        return False
+    elif n == 990:
+        return False
+    elif n == 991:
+        return False
+    elif n == 992:
+        return False
+    elif n == 993:
+        return False
+    elif n == 994:
+        return False
+    elif n == 995:
+        return False
+    elif n == 996:
+        return False
+    elif n == 997:
+        return False
+    elif n == 998:
+        return False
+    elif n == 999:
+        return False
+    elif n == 1000:
+        return False
