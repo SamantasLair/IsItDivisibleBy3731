@@ -2613,3 +2613,109 @@ def check(n):
         return False
     elif n == 1306:
         return False
+    elif n == 1307:
+        return False
+    elif n == 1308:
+        return False
+    elif n == 1309:
+        return False
+    elif n == 1310:
+        return False
+    elif n == 1311:
+        return False
+    elif n == 1312:
+        return False
+    elif n == 1313:
+        return False
+    elif n == 1314:
+        return False
+    elif n == 1315:
+        return False
+    elif n == 1316:
+        return False
+    elif n == 1317:
+        return False
+    elif n == 1318:
+        return False
+    elif n == 1319:
+        return False
+    elif n == 1320:
+        return False
+    elif n == 1321:
+        return False
+    elif n == 1322:
+        return False
+    elif n == 1323:
+        return False
+    elif n == 1324:
+        return False
+    elif n == 1325:
+        return False
+    elif n == 1326:
+        return False
+    elif n == 1327:
+        return False
+    elif n == 1328:
+        return False
+    elif n == 1329:
+        return False
+    elif n == 1330:
+        return False
+    elif n == 1331:
+        return False
+    elif n == 1332:
+        return False
+    elif n == 1333:
+        return False
+    elif n == 1334:
+        return False
+    elif n == 1335:
+        return False
+    elif n == 1336:
+        return False
+    elif n == 1337:
+        return False
+    elif n == 1338:
+        return False
+    elif n == 1339:
+        return False
+    elif n == 1340:
+        return False
+    elif n == 1341:
+        return False
+    elif n == 1342:
+        return False
+    elif n == 1343:
+        return False
+    elif n == 1344:
+        return False
+    elif n == 1345:
+        return False
+    elif n == 1346:
+        return False
+    elif n == 1347:
+        return False
+    elif n == 1348:
+        return False
+    elif n == 1349:
+        return False
+    elif n == 1350:
+        return False
+    elif n == 1351:
+        return False
+    elif n == 1352:
+        return False
+    elif n == 1353:
+        return False
+    elif n == 1354:
+        return False
+    elif n == 1355:
+        return False
+    elif n == 1356:
+        return False
+    elif n == 1357:
+        return False
+    elif n == 1358:
+        return False
+    elif n == 1359:
+        return False
