@@ -2041,3 +2041,43 @@ def check(n):
         return False
     elif n == 1020:
         return False
+    elif n == 1021:
+        return False
+    elif n == 1022:
+        return False
+    elif n == 1023:
+        return False
+    elif n == 1024:
+        return False
+    elif n == 1025:
+        return False
+    elif n == 1026:
+        return False
+    elif n == 1027:
+        return False
+    elif n == 1028:
+        return False
+    elif n == 1029:
+        return False
+    elif n == 1030:
+        return False
+    elif n == 1031:
+        return False
+    elif n == 1032:
+        return False
+    elif n == 1033:
+        return False
+    elif n == 1034:
+        return False
+    elif n == 1035:
+        return False
+    elif n == 1036:
+        return False
+    elif n == 1037:
+        return False
+    elif n == 1038:
+        return False
+    elif n == 1039:
+        return False
+    elif n == 1040:
+        return False
