@@ -2719,3 +2719,85 @@ def check(n):
         return False
     elif n == 1359:
         return False
+    elif n == 1360:
+        return False
+    elif n == 1361:
+        return False
+    elif n == 1362:
+        return False
+    elif n == 1363:
+        return False
+    elif n == 1364:
+        return False
+    elif n == 1365:
+        return False
+    elif n == 1366:
+        return False
+    elif n == 1367:
+        return False
+    elif n == 1368:
+        return False
+    elif n == 1369:
+        return False
+    elif n == 1370:
+        return False
+    elif n == 1371:
+        return False
+    elif n == 1372:
+        return False
+    elif n == 1373:
+        return False
+    elif n == 1374:
+        return False
+    elif n == 1375:
+        return False
+    elif n == 1376:
+        return False
+    elif n == 1377:
+        return False
+    elif n == 1378:
+        return False
+    elif n == 1379:
+        return False
+    elif n == 1380:
+        return False
+    elif n == 1381:
+        return False
+    elif n == 1382:
+        return False
+    elif n == 1383:
+        return False
+    elif n == 1384:
+        return False
+    elif n == 1385:
+        return False
+    elif n == 1386:
+        return False
+    elif n == 1387:
+        return False
+    elif n == 1388:
+        return False
+    elif n == 1389:
+        return False
+    elif n == 1390:
+        return False
+    elif n == 1391:
+        return False
+    elif n == 1392:
+        return False
+    elif n == 1393:
+        return False
+    elif n == 1394:
+        return False
+    elif n == 1395:
+        return False
+    elif n == 1396:
+        return False
+    elif n == 1397:
+        return False
+    elif n == 1398:
+        return False
+    elif n == 1399:
+        return False
+    elif n == 1400:
+        return False
