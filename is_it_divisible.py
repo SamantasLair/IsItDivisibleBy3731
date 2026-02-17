@@ -2999,3 +2999,9 @@ def check(n):
         return False
     elif n == 1499:
         return False
+    elif n == 1500:
+        return False
+    elif n == 1501:
+        return False
+    elif n == 1502:
+        return False
