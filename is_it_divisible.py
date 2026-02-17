@@ -2993,3 +2993,9 @@ def check(n):
         return False
     elif n == 1496:
         return False
+    elif n == 1497:
+        return False
+    elif n == 1498:
+        return False
+    elif n == 1499:
+        return False
