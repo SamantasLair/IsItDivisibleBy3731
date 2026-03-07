@@ -37861,3 +37861,15 @@ def check(n):
         return False
     elif n == 18930:
         return False
+    elif n == 18931:
+        return False
+    elif n == 18932:
+        return False
+    elif n == 18933:
+        return False
+    elif n == 18934:
+        return False
+    elif n == 18935:
+        return False
+    elif n == 18936:
+        return False
