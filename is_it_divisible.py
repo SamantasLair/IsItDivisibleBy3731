@@ -38001,3 +38001,39 @@ def check(n):
         return False
     elif n == 19000:
         return False
+    elif n == 19001:
+        return False
+    elif n == 19002:
+        return False
+    elif n == 19003:
+        return False
+    elif n == 19004:
+        return False
+    elif n == 19005:
+        return False
+    elif n == 19006:
+        return False
+    elif n == 19007:
+        return False
+    elif n == 19008:
+        return False
+    elif n == 19009:
+        return False
+    elif n == 19010:
+        return False
+    elif n == 19011:
+        return False
+    elif n == 19012:
+        return False
+    elif n == 19013:
+        return False
+    elif n == 19014:
+        return False
+    elif n == 19015:
+        return False
+    elif n == 19016:
+        return False
+    elif n == 19017:
+        return False
+    elif n == 19018:
+        return False
