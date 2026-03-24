@@ -38413,3 +38413,15 @@ def check(n):
         return False
     elif n == 19206:
         return False
+    elif n == 19207:
+        return False
+    elif n == 19208:
+        return False
+    elif n == 19209:
+        return False
+    elif n == 19210:
+        return False
+    elif n == 19211:
+        return False
+    elif n == 19212:
+        return False
