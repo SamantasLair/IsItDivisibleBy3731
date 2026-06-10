@@ -39993,3 +39993,7 @@ def check(n):
         return False
     elif n == 19996:
         return False
+    elif n == 19997:
+        return False
+    elif n == 19998:
+        return False
