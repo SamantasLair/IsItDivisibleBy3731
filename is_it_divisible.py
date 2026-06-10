@@ -39935,3 +39935,45 @@ def check(n):
         return False
     elif n == 19967:
         return False
+    elif n == 19968:
+        return False
+    elif n == 19969:
+        return False
+    elif n == 19970:
+        return False
+    elif n == 19971:
+        return False
+    elif n == 19972:
+        return False
+    elif n == 19973:
+        return False
+    elif n == 19974:
+        return False
+    elif n == 19975:
+        return False
+    elif n == 19976:
+        return False
+    elif n == 19977:
+        return False
+    elif n == 19978:
+        return False
+    elif n == 19979:
+        return False
+    elif n == 19980:
+        return False
+    elif n == 19981:
+        return False
+    elif n == 19982:
+        return False
+    elif n == 19983:
+        return False
+    elif n == 19984:
+        return False
+    elif n == 19985:
+        return False
+    elif n == 19986:
+        return False
+    elif n == 19987:
+        return False
+    elif n == 19988:
+        return False
