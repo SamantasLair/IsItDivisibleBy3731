@@ -40541,3 +40541,7 @@ def check(n):
         return False
     elif n == 20270:
         return False
+    elif n == 20271:
+        return False
+    elif n == 20272:
+        return False
