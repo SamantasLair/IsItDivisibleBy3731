@@ -42061,3 +42061,11 @@ def check(n):
         return False
     elif n == 21030:
         return False
+    elif n == 21031:
+        return False
+    elif n == 21032:
+        return False
+    elif n == 21033:
+        return False
+    elif n == 21034:
+        return False
